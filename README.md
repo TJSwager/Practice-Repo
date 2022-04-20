@@ -1,1 +1,4 @@
-# Practice-Repo
+-Practice-Repo
+-Hi this TJSWAG
+-Owener of this repo
+-I am very introvert person
